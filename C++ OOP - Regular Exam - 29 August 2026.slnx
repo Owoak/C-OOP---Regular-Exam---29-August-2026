@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="01. Virtual Book/01. Virtual Book.vcxproj" Id="9bea7ba5-f915-4533-9bd7-39f2091fb8e2" />
+  <Project Path="02. Gas Pumps/02. Gas Pumps.vcxproj" Id="32d4ad2d-dfb8-4222-be4f-418c734e723d" />
+  <Project Path="03. Vehicles/03. Vehicles.vcxproj" Id="6f96f556-8807-466a-85e8-a4228cb40ab9" />
+</Solution>
